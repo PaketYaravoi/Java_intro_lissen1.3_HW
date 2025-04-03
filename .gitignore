@@ -1,0 +1,62 @@
+### 🔹 Java ###
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.swp
+
+### 🔹 Каталоги сборки ###
+bin/
+out/
+target/
+build/
+
+### 🔹 Giga IDE (основано на IntelliJ IDEA) ###
+.gigaide/
+.idea/
+*.iml
+*.ipr
+*.iws
+giga-settings.xml
+giga-workspace/
+
+### 🔹 IntelliJ IDEA / Giga Team ###
+.idea/workspace.xml
+.idea/gigateam.xml
+.idea/**/gigateam.properties
+
+### 🔹 Eclipse (если проект импортировался) ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+### 🔹 NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### 🔹 VS Code ###
+.vscode/
+
+### 🔹 Mac OS ###
+.DS_Store
+
+### 🔹 Windows ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### 🔹 Среда выполнения ###
+*.log
+*.tmp
+*.swp
+/src/lesson1/homeWork/
+/src/lesson1/homeWork/
