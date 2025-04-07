@@ -6,6 +6,10 @@ public class main {
 
     public static void main(String[] args) {
 
+        /*Написать логику функции определения знака числа.
+          Если введено положительное число, то в консоль вывести 1, отрицательное -1, если 0, то 0.
+         */
+
         Scanner in = new Scanner(System.in);
 
         System.out.println("Введите число:");

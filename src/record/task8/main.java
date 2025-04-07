@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class main{
     public static void main(String[] args) {
 
+        /*Напишите программу, которая помогает определить день недели по номеру дня. Использовать оператор switch.*/
+
+
         Scanner in = new Scanner(System.in);
 
         System.out.print("Введите число дня недели:");

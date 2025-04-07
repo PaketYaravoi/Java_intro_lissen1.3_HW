@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
 
+        /*Запросите у пользователя ввести свое имя  и фамилию.
+        Выведите на экран приветственное сообщение с использованием System.out.print */
+
         System.out.println(" Введите число:");
 
         Scanner scanner = new Scanner(System.in);
@@ -17,9 +20,5 @@ public class main {
         Scanner scanner1 = new Scanner(System.in);
         String name = scanner1.nextLine();
         System.out.printf("Ваше имя: %s", name);
-
-
-
-
     }
 }

@@ -6,6 +6,11 @@ public class task3 {
 
     public static void main(String[] args) {
 
+        /*
+        Реализовать метод, который принимает два параметра:
+        число и степень, и возвращает результат возведения числа в степень.
+         */
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Введите число:");

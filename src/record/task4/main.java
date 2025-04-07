@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class main {
     public static void main(String[] args) {
 
+        /* Даны 2 числа. С помощью условного оператора выведите значение меньшего.*/
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Введите число: ");
@@ -18,7 +20,6 @@ public class main {
             System.out.println(number1);
         } else {
             System.out.println(number2);
-
         }
     }
 }
