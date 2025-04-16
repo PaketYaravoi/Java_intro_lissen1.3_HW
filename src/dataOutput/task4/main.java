@@ -9,6 +9,11 @@ public class main {
          *
          * Выведите на экран фразу, содержащую имя и возраст.
          */
+        String name = "Саша";
+        int age = 20;
+
+        System.out.printf("Привет, меня зовут %s, мне %d лет", name, age);
+
 
 
     }
