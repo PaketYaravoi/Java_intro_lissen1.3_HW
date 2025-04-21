@@ -16,6 +16,16 @@ public class main {
 
         Scanner scanner = new Scanner(System.in);
 
+        System.out.print("Введите скоростиь: ");
+        int speed = scanner.nextInt();
+
+        if(speed <= 110) {
+            System.out.printf("Ваша скорость: %d -  привышение скорости не выявлено.", speed);
+        } else {
+            System.out.printf("Ваша скорость: %d - внимаение! привышение скорости!!!", speed);
+
+        }
+
 
     }
 }
